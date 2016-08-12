@@ -2,7 +2,7 @@
 (function() {
   'use strict';
 
-  var weatherAPIUrlBase = 'https://api.forecast.io/forecast/APIKEY/LATITUDE,LONGITUDE';
+  var weatherAPIUrlBase = 'https://api.forecast.io/forecast/76572a9bf3333877760a7d4b28ab0651/37.8267,-122.423';
 
   var app = {
     isLoading: true,
