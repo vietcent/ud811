@@ -2,7 +2,7 @@
 (function() {
   'use strict';
 
-  var weatherAPIUrlBase = 'https://publicdata-weather.firebaseio.com/';
+  var weatherAPIUrlBase = 'https://api.forecast.io/forecast/APIKEY/LATITUDE,LONGITUDE';
 
   var app = {
     isLoading: true,
